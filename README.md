@@ -84,8 +84,8 @@ matplotlib >= 3.3.0
 
 ```bash
 # Clone repository
-git clone https://github.com/username/gargantua-simulator.git
-cd gargantua-simulator
+git clone https://github.com/MalikTzys/Blackhole-Simulation-With-Python.git
+cd Blackhole-Simulation-With-Python
 
 # Install requirements
 pip install -r requirements.txt
@@ -494,7 +494,7 @@ Kontribusi sangat diterima! Beberapa area yang membutuhkan bantuan:
 ```
 MIT License
 
-Copyright (c) 2024 Gargantua Black Hole Simulator
+Copyright (c) 2025 Gargantua Black Hole Simulator
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -536,10 +536,9 @@ SOFTWARE.
 
 ## 📧 Kontak
 
-- **Email**: your.email@university.edu
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **ResearchGate**: [Your Profile](https://www.researchgate.net/profile/yourprofile)
+- **Email**: muhamad.malik@smkn2bandung,sch.id
+- **GitHub**: [@MalikTzys](https://github.com/MalikTzys)
+- **Instagram**: [@malik_limited](https://instagram.com/malik_limited/)
 
 ---
 
@@ -549,11 +548,11 @@ Jika Anda menggunakan simulator ini dalam penelitian Anda, mohon cite sebagai:
 
 ```bibtex
 @software{gargantua_simulator_2024,
-  author       = {Your Name},
-  title        = {Gargantua: Interstellar Black Hole Simulator},
-  year         = 2024,
+  author       = {Malik Hanafi},
+  title        = {Blackhole-Simulation-With-Python},
+  year         = 2025,
   publisher    = {GitHub},
-  url          = {https://github.com/username/gargantua-simulator}
+  url          = {https://github.com/MalikTzys/Blackhole-Simulation-With-Python}
 }
 ```
 
@@ -563,17 +562,17 @@ Jika Anda menggunakan simulator ini dalam penelitian Anda, mohon cite sebagai:
 
 Jika proyek ini berguna untuk penelitian Anda:
 
-- ⭐ Star repository ini
-- 🐛 Report bugs via Issues
-- 💡 Suggest features
-- 📢 Share dengan kolega
-- ☕ [Buy me a coffee](https://buymeacoffee.com/yourname)
+- Star repository ini
+- Report bugs via Issues
+- Suggest features
+- Share dengan kolega
+- [Buy me a coffee](https://buymeacoffee.com/yourname)
 
 ---
 
 <div align="center">
 
-### 🌌 "Do not go gentle into that good night" 🌌
+### "Do not go gentle into that good night" 
 
 **Made with ❤️ for science and discovery**
 
