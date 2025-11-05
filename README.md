@@ -7,7 +7,7 @@
 
 Simulasi black hole tingkat lanjut yang menampilkan **Gargantua** dari film Interstellar dengan fisika relativistik akurat. Proyek ini ditujukan untuk penelitian astrofisika, visualisasi fenomena gravitasi ekstrem, dan edukasi tentang relativitas umum Einstein.
 
-![Gargantua Simulation]([https://via.placeholder.com/800x300/000814/ffbe0b?text=Gargantua+Blacnk+Hole+Simulatio](https://raw.githubusercontent.com/MalikTzys/Blackhole-Simulation-With-Python/refs/heads/main/assets/assets1.png))
+![Gargantua Simulation]([https://raw.githubusercontent.com/MalikTzys/Blackhole-Simulation-With-Python/refs/heads/main/assets/assets1.png])
 
 ---
 
