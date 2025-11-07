@@ -658,6 +658,12 @@ A: Secara implisit ya (melalui koreksi relativistik), namun tidak ada visualisas
 
 ---
 
+## Catatan Penting:
+
+File `blackhole2d.py`, `blackhole3d.py`, dan `blackhole3dvid.py` disalin dari repositori [Github Fajrul Fx](https://github.com/fajrulfx/blackhole).
+
+---
+
 **Last Updated:** November 2024  
 **Version:** 1.0.0  
 **Status:** Active Development 🚀
